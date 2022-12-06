@@ -95,9 +95,9 @@ crossOrigin="anonymous"></script>
     <div className="tooltip coloric">Youtube</div>
     <span><i id="coloric" className="fab coloric  fa-linkedin"></i></span>
   </a>:""}
-  <span className="ppp">almsakenist</span>
-  <a  href="https://api.whatsapp.com/send?phone=966566642792"><i id="coloric"  className="fab fa-whatsapp   "></i></a>
-  <a className="ppp" href={`tel:0566642792}`}>056 664 2792</a>
+  <span className="ppp">almsaken1st</span>
+  <a  href="https://api.whatsapp.com/send?phone=+966506837260"><i id="coloric"  className="fab fa-whatsapp   "></i></a>
+  <a className="ppp" href={`tel:0566642792}`}>050 683 7260</a>
 </div>
 <Link href={`/`}>
     <a className="navbar-brand" href="/">
@@ -122,7 +122,7 @@ crossOrigin="anonymous"></script>
       </li>
       
       <li className="nav-item ">
-    <Link href="/cervices">
+    <Link href="/cart">
     <a className="nav-link text-white " >خدماتنا</a>
     </Link>
       </li>
@@ -168,7 +168,7 @@ crossOrigin="anonymous"></script>
           </Link>
         </li>
         <li className="nav-item ms-auto">
-           <Link href={`/cervices`}>
+           <Link href={`/cart`}>
           <a className="nav-link active" aria-current="page" >خدماتنا</a>
           </Link>
         </li>
@@ -205,8 +205,8 @@ crossOrigin="anonymous"></script>
     <span><i id="coloric" className="fab coloric fa-1x fa-linkedin"></i></span>
   </a>:""}
   <span className="ppp">forsancf</span>
-  <a  href="https://api.whatsapp.com/send?phone=966566642792"><i id="coloric"  className="fab fa-whatsapp  fa-1x "></i></a>
-  <a className="ppp" href={`tel:0566642792}`}>056 664 2792</a>
+  <a  href="https://api.whatsapp.com/send?phone=+9665068372602"><i id="coloric"  className="fab fa-whatsapp  fa-1x "></i></a>
+  <a className="ppp" href={`tel:+966506837260}`}>050 683 7260</a>
 </div>
 </div>
 <div className="fixed ">
@@ -248,9 +248,9 @@ crossOrigin="anonymous"></script>
     <div className="tooltip coloric">Youtube</div>
     <span><i id="coloric" className="fab coloric  fa-linkedin"></i></span>
   </a>:""}
-  <span className="ppp">forsancf</span>
-  <a  href="https://api.whatsapp.com/send?phone=966566642792"><i id="coloric"  className="fab fa-whatsapp   "></i></a>
-  <span className="ppp">0566642792</span>
+  <span className="ppp">almsaken1st</span>
+  <a  href="https://api.whatsapp.com/send?phone=+966506837260"><i id="coloric"  className="fab fa-whatsapp   "></i></a>
+  <span className="ppp">050 683 7260</span>
 </div>
 <div className="row justify-content-around">
     <div className="col-11 col-lg-5 ">
@@ -271,27 +271,27 @@ crossOrigin="anonymous"></script>
     <li className="col-12 text-lift">
           <span className="text-dark">
            <a  href="https://www.google.com.eg/maps/dir//طريق الملك عبدالعزيز الفرعي، الياسمين، الرياض 13326">
-           الياسمين طريق الملك عبدالعزيز مقابل المركز التشيكي           </a>
+         الرياض - حي شبرا - شارع ظفار         </a>
           </span>
         <i className="fas fa-map-marker-alt p-1 fa-2x"></i>
           </li>
         <li className="col-12 text-lift">
           <span className="text-dark">
            <a  href="https://www.google.com.eg/maps/dir//Cleaver+Burger+(كليڤر+برجر)%E2%80%AD/@24.7518803,46.6400711,16.74z?">
-           شارع التخصصي
+           حي شبرا
            </a>
           </span>
         <i className="fas fa-map-marker-alt p-1 fa-2x"></i>
           </li>
           <li className="col-12 text-lift">
           <span className="text-dark">
-           <a href="tel:0566642792">056 664 2792</a>
+           <a href="tel:+966506837260">050 683 7260</a>
           </span>
           <i className="fas fa-phone-square-alt p-1 fa-2x"></i>
           </li>
          <li className="col-12 text-lift">
           <span className="text-dark">
-           <a href="mailto:forsancf@gmail.com ">forsancf@gmail.com </a>
+           <a href="mailto:info@almsaken1st.com ">info@almsaken1st.com</a>
           </span>
           <i className="fas fa-at p-1 fa-2x"></i>
           </li>

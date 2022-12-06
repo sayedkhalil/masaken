@@ -254,3 +254,17 @@ height: 200px;
 .pointer{
   cursor: pointer;
 }
+.fill{
+  background-image: url("../public/bg101.jpg");
+  background-size: cover;
+  height: 80vh;
+ 
+}
+.rel10{
+  position: relative;
+}
+.ab101{
+  position: absolute;
+  top: 50%;
+  left:20%;
+}

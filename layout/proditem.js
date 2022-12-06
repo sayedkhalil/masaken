@@ -64,7 +64,7 @@ const ProdItem = (props) => {
         <i class="fa fa-bed itcolo" aria-hidden="true"></i>
       </div>
     </div>
-    <a className="btn bgg1  mx-2 mt-2 " href="https://api.whatsapp.com/send?phone=966566642792">
+    <a className="btn bgg1  mx-2 mt-2 " href="https://api.whatsapp.com/send?phone=0566642792">
     <i className="fa fa-whatsapp  fa-2x" aria-hidden="true"></i>تواصل</a>
 
 </div>
