@@ -8,7 +8,7 @@ function MyApp({ Component, pageProps }) {
     <>
     <AuthProvider>
     <AppWrapper>
-<Layout1 >
+<Layout1 >z
 <Component {...pageProps} />
 </Layout1>
     </AppWrapper>

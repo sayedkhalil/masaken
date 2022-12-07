@@ -16,6 +16,17 @@ import Div from '../layout/div'
 
 export default function Home({getdata}) {
   return (
+//     <!-- Google Tag Manager -->
+// <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+// new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+// j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+// 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+// })(window,document,'script','dataLayer','GTM-WMN3D96');</script>
+// <!-- End Google Tag Manager -->
+// <!-- Google Tag Manager (noscript) -->
+// <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WMN3D96"
+// height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+// <!-- End Google Tag Manager (noscript) -->
     <div>
       <Head>
         <title>{getdata.getinfo.name}</title>
@@ -26,7 +37,14 @@ export default function Home({getdata}) {
         <link href="https://fonts.googleapis.com/css2?family=Almarai&display=swap" rel="stylesheet"></link>
         <link rel="icon" href={getdata.getinfo.logo} type="image/x-icon" />
         <meta name="google-site-verification" content="_OtuybINzdg_u7HN4n2xCk83du_TC8CdaKcPR0p-2Bg" />
+        <script dangerouslySetInnerHTML={{ __html: `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-GTM-WMN3D96');`}}></script>
       </Head>
+      <noscript dangerouslySetInnerHTML={{ __html: `<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WMN3D96"
+height="0" width="0" style="display:none;visibility:hidden"></iframe>`}}></noscript>
           <Cover data={getdata.getcov} />
           <Itemes/>
           <div className={styles.container}>
