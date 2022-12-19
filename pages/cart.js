@@ -79,17 +79,13 @@ setnone("")
        <p className="text-center w-100 text-dark">  شقة</p>
       </div>
     </div>
-    <div className="col-6 col-md-3 p-1"onClick={()=>akar("أرض")}>
+    <div className="col-6 col-md-4 p-1"onClick={()=>akar("أرض")}>
       <div className="w-100 border-1 border border-secondary pointer">
       <i class="fa fa-inbox fa-2x text-center itcolo d-block w-100 my-3" aria-hidden="true"></i>
        <p className="text-center w-100 text-dark">  أرض</p>
       </div>
-    </div>
-    <div className="col-6 col-md-3 p-1"onClick={()=>akar("استراحة")}>
-      <div className="w-100 border-1 border border-secondary pointer">
-      <i class="fa fa-map-signs fa-2x text-center itcolo d-block w-100 my-3" aria-hidden="true"></i>
-       <p className="text-center w-100 text-dark">  استراحة</p>
-      </div>
+    
+    
     </div>
                   
   </div>

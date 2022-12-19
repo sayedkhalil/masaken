@@ -12,20 +12,16 @@ crossOrigin="anonymous"></script>
 </Head>
 <div className="container  bs">
 <div className="mt-3 row jsw bs">
-<div className="col-12 col-md-3 row  p-3 bs">
-<div className=" text-center h3 bs ite text-dark p-1 rounded">200</div>
+<div className="col-12 col-md-4 row  p-3 bs">
+<div className=" text-center h3 bs ite text-dark p-1 rounded">363</div>
 <div className=" text-center h5 bs mt-2 text-secondary">وحدة تم تطويرها</div>
 </div>
-<div className="col-12 col-md-3 row  p-3 bs">
+<div className="col-12 col-md-4 row  p-3 bs">
 <div className=" text-center h3 bs ite text-dark p-1 rounded">50000</div>
 <div className=" text-center h5 bs mt-2 text-secondary">متر مربع تم تطويره</div>
 </div>
-<div className="col-12 col-md-3 row  p-3 bs">
-<div className=" text-center h3 bs ite text-dark p-1 rounded">764344</div>
-<div className=" text-center h5 bs mt-2 text-secondary">مساحة جميع الاراضي لدينا</div>
-</div>
-<div className="col-12 col-md-3 row  p-3 bs">
-<div className=" text-center h3 bs ite text-dark p-1 rounded">10</div>
+<div className="col-12 col-md-4 row  p-3 bs">
+<div className=" text-center h3 bs ite text-dark p-1 rounded">13</div>
 <div className=" text-center h5 bs mt-2 text-secondary">عامًا من الخبرة لفريق عملنا</div>
 </div>
 </div>

@@ -54,6 +54,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>`}}></noscr
           <Partener data={getdata.getpart}/>
           <Div />
           </div>
+          
     </div>
   )
 }
