@@ -300,9 +300,8 @@ crossOrigin="anonymous"></script>
     </ul>
 </div>
 </div>
-<h6 className="card-title text-center text-dark">{`الحقوق محفوظة${info.name} © 2022`}</h6>
-<h6 className="card-title text-center text-dark">powered by <a  href="http://sayedkhalil.com">sayed khalil</a></h6>
-</div>
+<h6 className="card-title text-center text-dark">{`الحقوق محفوظة${info.name} © 2023`}</h6>
+{/* <h6 className="card-title text-center text-dark">powered by <a  href="http://sayedkhalil.com">sayed khalil</a></h6> */}</div>
 </div>
     );
 }
