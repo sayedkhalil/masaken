@@ -270,8 +270,8 @@ crossOrigin="anonymous"></script>
     <ul className="row text-end list-unstyled">
     <li className="col-12 text-lift">
           <span className="text-dark">
-           <a  href="https://www.google.com.eg/maps/dir//طريق الملك عبدالعزيز الفرعي، الياسمين، الرياض 13326">
-         الرياض - حي شبرا - شارع ظفار         </a>
+           <a  href="https://www.google.com.eg/maps/dir//الطريق الدائري الجنوبي، حي شبرا الرياض 13326">
+         الرياض - حي شبرا - الطريق الدائري الجنوبي         </a>
           </span>
         <i className="fas fa-map-marker-alt p-1 fa-2x"></i>
           </li>
