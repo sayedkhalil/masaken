@@ -96,7 +96,7 @@ crossOrigin="anonymous"></script>
     <span><i id="coloric" className="fab coloric  fa-linkedin"></i></span>
   </a>:""}
   <span className="ppp">almsaken1st</span>
-  <a  href="https://api.whatsapp.com/send?phone=+966506837260"><i id="coloric"  className="fab fa-whatsapp   "></i></a>
+  <a  href="https://api.whatsapp.com/send?phone=0506837260"><i id="coloric"  className="fab fa-whatsapp   "></i></a>
   <a className="ppp" href={`tel:0566642792}`}>050 683 7260</a>
 </div>
 <Link href={`/`}>
@@ -205,13 +205,13 @@ crossOrigin="anonymous"></script>
     <span><i id="coloric" className="fab coloric fa-1x fa-linkedin"></i></span>
   </a>:""}
   <span className="ppp">forsancf</span>
-  <a  href="https://api.whatsapp.com/send?phone=+9665068372602"><i id="coloric"  className="fab fa-whatsapp  fa-1x "></i></a>
-  <a className="ppp" href={`tel:+966506837260}`}>050 683 7260</a>
+  <a  href="https://api.whatsapp.com/send?phone=0506837260"><i id="coloric"  className="fab fa-whatsapp  fa-1x "></i></a>
+  <a className="ppp" href={`tel:0506837260}`}>050 683 7260</a>
 </div>
 </div>
 <div className="fixed ">
   <div className={` bgwa rounded-3`} >
-  <a className=" text-success col-8 p-2" href={`https://api.whatsapp.com/send/?phone=${info.whats}&text&app_absent=0`}>
+  <a className=" text-success col-8 p-2" href={`https://api.whatsapp.com/send/?phone=0506837260&text&app_absent=0`}>
   <p className="text-light twa">تواصل</p>
   <i className="fab fa-whatsapp col-4 fa-2x p-1 text-light"></i>
   </a>  
@@ -249,7 +249,7 @@ crossOrigin="anonymous"></script>
     <span><i id="coloric" className="fab coloric  fa-linkedin"></i></span>
   </a>:""}
   <span className="ppp">almsaken1st</span>
-  <a  href="https://api.whatsapp.com/send?phone=+966506837260"><i id="coloric"  className="fab fa-whatsapp   "></i></a>
+  <a  href="https://api.whatsapp.com/send?phone=0506837260"><i id="coloric"  className="fab fa-whatsapp   "></i></a>
   <span className="ppp">050 683 7260</span>
 </div>
 <div className="row justify-content-around">
@@ -285,7 +285,7 @@ crossOrigin="anonymous"></script>
           </li>
           <li className="col-12 text-lift">
           <span className="text-dark">
-           <a href="tel:+966506837260">050 683 7260</a>
+           <a href="tel:0506837260">050 683 7260</a>
           </span>
           <i className="fas fa-phone-square-alt p-1 fa-2x"></i>
           </li>
